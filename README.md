@@ -1,4 +1,4 @@
-# Retail Data Analysis Chat Assistant
+# Data Analysis Chat Assistant
 
 A command-line LLM agent that lets non-technical executives ask questions about sales, products and customers in plain
 English. It writes and runs BigQuery SQL on `bigquery-public-data.thelook_ecommerce`, protects personal data, scopes every user to
