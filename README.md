@@ -29,8 +29,8 @@ Everything used here has a free tier; no credit card is needed for BigQuery sand
 **1. Get the code and create a virtual environment**
 
 ```bash
-git clone https://github.com/mbsoroush/DataAnalysisChatAssistant.git
-cd DataAnalysisChatAssistant
+git clone https://github.com/mbsoroush/Data-Analysis-Chat-Assistant.git
+cd Data-Analysis-Chat-Assistant
 python3 -m venv .venv
 source .venv/bin/activate            # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
